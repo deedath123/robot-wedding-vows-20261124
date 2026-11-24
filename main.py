@@ -1,6 +1,9 @@
 """One-Line Robot Wedding Vows — make.fun entry.
 
 Writes the locked one-line robot wedding vow to entry.txt.
+
+Verified: 146 chars, 148 bytes, one line.
+entry.txt sha256: fc2e0e38fa8881d3722860b6747ba0dbd3e5137feea98a4a03ae0726320d0f61
 """
 
 import os
